@@ -1,3 +1,7 @@
+# There's no need to edit any code until you see, for example, #tracker.mark_as_read("Genesis")
+# Once you start to see the tracker code then you can uncomment out what you have read 
+# Then it can keep track of it 
+
 class BibleTracker:
     def __init__(self):
         self.books = {
@@ -45,7 +49,9 @@ class BibleTracker:
 if __name__ == "__main__":
     tracker = BibleTracker()
 
-    # Manually mark books as read
+    # START REMOVING THE COMMENT'S "#"
+    # There is no need to edit any of the code above
+    # Below here is what you want to edit
 
     # OLD TESTAMENT ---
 
