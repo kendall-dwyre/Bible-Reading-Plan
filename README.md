@@ -16,3 +16,5 @@ If this code were ran, the output say:
 However, Luke and John would not be marked as read since they still have the comment.  
 
 Lastly, you can use this code for more than just a Bible Reading Plan.  This code can be a template for anything else that may be a plan or list that you would like to keep track of. 
+
+If you are unfamiliar with Python programming, you can follow this link to Google Colab (https://colab.research.google.com/) where you can create a notebook.  Simply copy and paste my GitHub code into Google Colab and make adjustments as needed by commenting or uncommenting out different parts of data. 
