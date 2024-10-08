@@ -27,8 +27,9 @@ Luke and John will remain unread as they are still commented out.
 ## Checking Your Progress
 At the end of the script, the tracker will automatically display:
 
-How many books you've read out of the total 66.
-A list of books you have yet to read.
+* How many books you've read out of the total 66.
+* A list of books you have yet to read.
+  
 You can use this to stay motivated and keep track of where you are in your reading plan.
 
 ## Additional Features
